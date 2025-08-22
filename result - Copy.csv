@@ -1,0 +1,17 @@
+last_close,predict,residual,LOOKBACK
+last_close,predict,residual,LOOKBACK
+1.16868,1.16877,-0.019193176006951918,10
+last_close,predict,residual,LOOKBACK
+1.16868,1.16877,-0.020789764133125388,20
+last_close,predict,residual,LOOKBACK
+1.16868,1.16877,-0.01937458463547448,30
+last_close,predict,residual,LOOKBACK
+1.16868,1.16877,-0.020988625060852195,40
+last_close,predict,residual,LOOKBACK
+1.16868,1.16877,-0.019448262167392594,50
+last_close,predict,residual,LOOKBACK
+1.16868,1.16877,-0.019461084680270302,60
+last_close,predict,residual,LOOKBACK
+1.16868,1.16877,-0.01887208383388872,70
+last_close,predict,residual,LOOKBACK
+1.16868,1.16877,-0.02122844962133552,80
